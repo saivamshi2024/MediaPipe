@@ -73,6 +73,10 @@ python main.py
 > * ✅ Shoe Detected
 > * ✅ Camera Detected
 
+![Image](https://github.com/user-attachments/assets/a356257f-31f3-478c-b113-932ff8b8424a)
+![Image](https://github.com/user-attachments/assets/13a3c706-90a6-44e3-8d5a-beea84e6db22)
+![Image](https://github.com/user-attachments/assets/42192261-884e-42c8-a1fa-2f9c767ff0aa)
+
 ---
 
 ## 📌 Notes
